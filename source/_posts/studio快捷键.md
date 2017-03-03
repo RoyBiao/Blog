@@ -12,5 +12,6 @@ tags:  android
 3. 查看类的继承关系
     Windows：Ctrl + H
     Mac　　 ：Control + H
+4. 快捷键即可自动生成布局文件 alt + enter 
 
 
